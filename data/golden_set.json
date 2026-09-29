@@ -1,0 +1,10 @@
+[
+  {"pregunta": "¿Qué significa el error ERR_DIM_MISMATCH?", "documento_id_esperado": "errores_dimension"},
+  {"pregunta": "¿Cómo separo los datos de distintos clientes dentro de un mismo índice?", "documento_id_esperado": "namespaces_multitenancy"},
+  {"pregunta": "¿Por qué conviene combinar BM25 con embeddings?", "documento_id_esperado": "busqueda_hibrida_bm25"},
+  {"pregunta": "¿Cómo se fusionan rankings de recuperadores con escalas distintas?", "documento_id_esperado": "reciprocal_rank_fusion"},
+  {"pregunta": "¿Qué tamaño de chunk se recomienda?", "documento_id_esperado": "chunking_estrategias"},
+  {"pregunta": "¿Qué mide Recall@k?", "documento_id_esperado": "precision_recall"},
+  {"pregunta": "¿Qué tamaño de lote se usa para el upsert masivo?", "documento_id_esperado": "ingesta_por_lotes"},
+  {"pregunta": "¿Qué ventajas tiene Pinecone Serverless frente a una base local?", "documento_id_esperado": "pinecone_serverless"}
+]
